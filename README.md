@@ -82,6 +82,3 @@ If you have any questions or suggestions, feel free to reach out on Instagram: [
 
 
 Happy coding!
-```
-
-This README gives an overview of the projects, how to get started, prerequisites, and other relevant information, making it easy for others to use and contribute to your projects.
