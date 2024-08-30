@@ -78,7 +78,8 @@ Contributions are welcome! Feel free to fork this repository, make your changes,
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out!.. insta:- comrade_03__
+If you have any questions or suggestions, feel free to reach out on Instagram: [comrade_03__](https://instagram.com/comrade_03__)
+
 
 Happy coding!
 ```
